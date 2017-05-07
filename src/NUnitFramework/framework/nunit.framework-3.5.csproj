@@ -148,7 +148,7 @@
     <Compile Include="Internal\Filters\TestNameFilter.cs" />
     <Compile Include="Internal\Filters\ClassNameFilter.cs" />
     <Compile Include="Internal\Filters\MethodNameFilter.cs" />
-	<Compile Include="Internal\Filters\NamespaceFilter.cs" />
+    <Compile Include="Internal\Filters\NamespaceFilter.cs" />
     <Compile Include="Internal\Logging\ILogger.cs" />
     <Compile Include="Internal\Logging\InternalTrace.cs" />
     <Compile Include="Internal\Logging\InternalTraceLevel.cs" />
@@ -158,6 +158,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Internal\ParameterWrapper.cs" />
+    <Compile Include="Internal\TestAttachment.cs" />
     <Compile Include="Internal\TestCaseTimeoutException.cs" />
     <Compile Include="Internal\TestNameGenerator.cs" />
     <Compile Include="Internal\TypeWrapper.cs" />
