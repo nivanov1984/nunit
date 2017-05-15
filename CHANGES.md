@@ -1,7 +1,7 @@
 ### NUnit 3.6.1 - February 26, 2017
 
 This is a hotfix release of the framework that addresses critical issues found in
-the 3.6 release.
+the 3.6 release..
 
 #### Issues Resolved
 
